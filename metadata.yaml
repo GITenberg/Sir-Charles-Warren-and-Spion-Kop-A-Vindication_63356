@@ -1,0 +1,23 @@
+_repo: Sir-Charles-Warren-and-Spion-Kop-A-Vindication_63356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defender
+    gutenberg_agent_id: '52397'
+    url: http://www.gutenberg.org/2009/agents/52397
+description: ''
+gutenberg_issued: '2020-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Spion Kop, Battle of, South Africa, 1900'
+- !lcsh 'Warren, Charles, Sir, 1840-1927'
+- GITenberg
+title: 'Sir Charles Warren and Spion Kop: A Vindication'
+url: http://www.gutenberg.org/ebooks/63356
